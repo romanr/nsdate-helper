@@ -58,5 +58,5 @@
 + (NSString *)timeFormatString;
 + (NSString *)timestampFormatString;
 + (NSString *)dbFormatString;
-
+-(NSDate *) toLocalTime;
 @end
